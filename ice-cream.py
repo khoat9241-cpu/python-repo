@@ -1,0 +1,1 @@
+print ("I like ice cream!")
